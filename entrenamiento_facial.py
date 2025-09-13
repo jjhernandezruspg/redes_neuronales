@@ -222,7 +222,7 @@ def detener_camara():
 
 # ---------------- GUI ----------------
 root = tk.Tk()
-root.title("Reconocimiento de Emociones Ultra Final")
+root.title("Reconocimiento de Emociones")
 root.geometry("1600x1000")
 root.configure(bg="#222222")
 
